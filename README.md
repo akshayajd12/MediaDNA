@@ -1,7 +1,6 @@
 # MEDIA DNA: Digital Media Genealogy & Forensic Origin Tracking
 
-> **Official Submission for Chandigarh Police Hackathon -- Problem
-> Statement 4**\
+> 
 > *Tagline*: **"Don't just detect the fake. Trace its journey."**
 
 ------------------------------------------------------------------------
